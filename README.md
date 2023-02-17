@@ -1,7 +1,6 @@
-Txt
 <h3 align="center">Soy un estudiante universitario apasionado por la programación y el desarrollo de software. En mi tiempo libre, disfruto armando cubos Rubik.</h3>
 
-<img align=“right” width=“400” src=“https://images.app.goo.gl/od5HZ4mEZu5rMz4p9”/>
+<img align=“right” width=“400” src=“https://images.app.goo.gl/od5HZ4mEZu5rMz4p9](https://cdn.dribbble.com/users/948184/screenshots/2328404/rubik-cubereversed-2.gif)”/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=camperojose" alt="camperojose" /></a> </p>
 
